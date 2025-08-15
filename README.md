@@ -1,6 +1,5 @@
 # Audits
 * [Hoenn](https://www.hoenn.fi/) - [report](https://drive.google.com/file/d/1hADBhsLPqY_KCOCz0NNoz1B2mia2h4xk/view?utm_source=immunefi)
-* [Layer3.xyz](https://layer3.xyz/) - report not yet available
 
 # Bug bounties
 Currently #53 in Immunefi's all time leaderboard, with 4 Criticals and 3 High findings.
