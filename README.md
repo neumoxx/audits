@@ -1,10 +1,13 @@
-# Public audit reports
-Senior auditor @Immunefi
+# Bio
+Bug bounty hunter and security researcher, specialized in Clarity, Solidity, and Rust, with some experience in Go. I’ve worked on everything from the NEAR node implementation, to most (if not all) lending, borrowing, and staking protocols in Stacks, to the smart contracts of the most popular DeFi protocols on Ethereum. I’ve also analyzed CosmosSDK-based codebases such as Polygon’s and dYdX.
+
+## Public audit reports
+Senior auditor @Immunefi.
 * [Hoenn](https://www.hoenn.fi/) - [report](https://drive.google.com/file/d/1hADBhsLPqY_KCOCz0NNoz1B2mia2h4xk/view?utm_source=immunefi)
 * [Layer3](https://layer3.xyz/) - [report](https://drive.google.com/file/d/1zLHmUVl1ZgWsNw8dhmem6k26xKMK1Ly6/view)
 
 # Bug bounties
-Bug bounty hunter. Mo bugs mo problems. Currently [#52](https://immunefi.com/profile/neumo/) in Immunefi's All Time leaderboard, with 4 Criticals and 3 High findings.
+Mo bugs, mo problems. Currently ranked [#52](https://immunefi.com/profile/neumo/) on Immunefi's All-Time Leaderboard, with 4 Critical and 3 High findings. Also ranked [#33](https://hackenproof.com/hackers/Pai-Mei-and-Gandalf) on HackenProof's All-Time Leaderboard with the team Pai Mei and Gandalf, with [100proof](https://soloaudit.com/auditor/100proof).
 
 # Contests
 Some relevant audit competition results:
