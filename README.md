@@ -4,7 +4,7 @@ Senior auditor @Immunefi
 * [Layer3](https://layer3.xyz/) - [report](https://drive.google.com/file/d/1zLHmUVl1ZgWsNw8dhmem6k26xKMK1Ly6/view)
 
 # Bug bounties
-Bug bounty hunter. Mo bugs mo problems. Currently [#53](https://immunefi.com/profile/neumo/) in Immunefi's All Time leaderboard, with 4 Criticals and 3 High findings.
+Bug bounty hunter. Mo bugs mo problems. Currently [#52](https://immunefi.com/profile/neumo/) in Immunefi's All Time leaderboard, with 4 Criticals and 3 High findings.
 
 # Contests
 Some relevant audit competition results:
